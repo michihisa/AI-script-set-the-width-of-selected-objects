@@ -1,6 +1,6 @@
 # AI-script-set-the-width-of-selected-objects
 
-Set the width of the selected objects to the width of the foremost object, keeping the aspect ratio for each objects. 
+Set the width of the selected objects to the width of the foremost object, keeping the aspect ratio for each objects.
 選択した複数オブジェクトの幅を、その中の最前面オブジェクトに揃える。このとき、各オブジェクトの縦横比は変えないようにする。
 
 # Usage
